@@ -2,7 +2,7 @@
 using HarmonyLib;
 using Assets.Scripts.Unity.UI_New.InGame.TowerSelectionMenu;
 using Assets.Scripts.Simulation.Input;
-[assembly:MelonInfo(typeof(geraldothingy.ModMain),"geraldothingy","1.0.0","Silentstorm")]
+[assembly:MelonInfo(typeof(geraldothingy.ModMain),"geraldothingy","1.0.1","Silentstorm")]
 namespace geraldothingy{
     public class ModMain:MelonMod{
         public static GeraldoShopInventory shop;
